@@ -8,3 +8,7 @@ My first test repository
 ## Subheading 1.1
 
 This is the first paragraph. And now there's more since I updated README.md...
+
+## Subheading 1.2
+
+This is the second paragraph.
