@@ -15,4 +15,4 @@ This is the second paragraph.
 
 # Heading 2
 
-And this is a whole new heading... totally different topic.
+And this is a whole 'nother heading... totally different topic.
